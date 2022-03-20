@@ -1,0 +1,31 @@
+.row {
+    display:flex;
+    flex-direction: row;
+    gap: 50px;
+    padding: 10px;
+    border: 10px;
+    margin:10px;
+    /* width:300px;
+    height:250px; */
+}
+
+
+body{
+    background-color : darkolivegreen;
+    color: white;
+    /* padding: 10px;
+    border: 10px;
+    margin:10px;
+    width:300px; 
+    height:500px;  */
+}
+
+.bg{
+    background-color : greenyellow;
+    color: white;
+    padding: 10px;
+    border: 2px solid rgb(255, 158, 47);
+    margin:10px;
+    height:100px; 
+    width: 200px;   
+}
